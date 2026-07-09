@@ -1,2 +1,2 @@
 # GitExperiment
-This is for experimenting Git
+This is for experimenting Git and GitHub
